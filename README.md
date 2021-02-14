@@ -15,12 +15,12 @@ Options > Video settings > Shaders > Bottem left of the screen click "Open Shade
 Copy SEUS PTGI HRR Test 2.1.zip into this folder.
 
 ## 5. Install resource pack
-Options > Resource Packs > Open Resource Folder
+Options > Resource Packs > Open Resource Folder.
 Copy VNR-1.0.1.zip into this folder.
 
 ## 6. Additional Tweaks
-+Options > Video Settings > Details > Alternate Blocks: OFF
-+Options > Video Settings > Details > Trees: Fancy or Fast (Smart may break lighting)
+Options > Video Settings > Details > Alternate Blocks: OFF
+Options > Video Settings > Details > Trees: Fancy or Fast (Smart may break lighting)
 
 ### the below were already defaults for me but dont change them!
 Options > Video Settings > Quality > Natural Textures: OFF
